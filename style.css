@@ -1,0 +1,35 @@
+body {
+        margin: 3em; 
+        border-width:medium; border-color:#69a; border-style:solid;
+        padding: 2em;
+        font-family: verdana, arial, helvetica, sans-serif;
+        background-color: #70b0c0 
+        }
+
+h1 {
+	font-family: times, bitstream, serif;
+	color: #eff;
+	padding-top: 0.6em;
+	padding-bottom: 0.4em;
+}
+
+p {
+	color: #e8f4f8;
+	margin-left: 0.6em;
+}
+
+li {
+	color: #fff;
+	margin-left: 0.6em;
+}
+
+#contentinfo {
+	font-size: 70%;
+	text-align: right;
+}
+
+a:link{color: Blue}
+a:visited{ color: Navy}
+a:hover{ color: Aqua}
+a:focus{ color: White}
+a:active{ color: Teal}
